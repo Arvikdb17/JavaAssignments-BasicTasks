@@ -10,11 +10,11 @@ public class Main {
 }
 class A{
      public static void displayMessage() {
-          System.out.println("This is MainClass.");
+          System.out.println("This is A class.");
        }
 }
 class B{
      public static void displayMessage() {
-          System.out.println("This is MainClass.");
+          System.out.println("This is B class.");
        }
 }
